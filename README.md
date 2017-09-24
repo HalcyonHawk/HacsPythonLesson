@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+hello, Tilly here. Computer science student.
